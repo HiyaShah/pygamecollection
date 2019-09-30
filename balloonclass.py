@@ -86,7 +86,7 @@ def gamerun():
     pygame.display.update()
 
             
-
+#at beginning and end of game
 def menu():
     firstword= "PLAY"
     secword= "QUIT"
